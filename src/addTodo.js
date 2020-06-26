@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     width: '70%',
     padding: 10,
     borderStyle: 'solid',
-    borderBottomWidthWidth: 2,
+    borderBottomWidth: 2,
     borderBottomColor: '#2359ab'
   },
 

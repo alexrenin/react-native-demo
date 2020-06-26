@@ -26,7 +26,7 @@ export default function App() {
         <AddTodo onSubmit={addTodo} />
         <View style={styles.todoList}>
           {todos.map(todo => {
-            return <Todo key={todo.id} todo={todo.id} />
+            return <Todo key={todo.id} todo={todo} />
           })}
         </View>
       </View>

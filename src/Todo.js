@@ -1,5 +1,5 @@
 import React from 'react'
-import { StyleSheet, TextInput, Button, View } from 'react-native'
+import { StyleSheet, Text, View } from 'react-native'
 
 export const Todo = ({ todo }) => {
   return (
@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     padding: 15,
     borderWidth: 1,
-    borderColor: '#eee',
+    borderColor: '#eee0c3',
     borderRadius: 5
   }
 })
