@@ -8,3 +8,4 @@ Technologies:
  * JS 
  * React 
  * React native
+ * Expo
